@@ -1,4 +1,4 @@
-<a href="./meow.txt" target="_blank">
+<a href="./meow.txt">
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=schilke.visitor-badge" alt="visitor badge"/>
 </a>
 
