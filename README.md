@@ -1,4 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=schilke.visitor-badge" alt="visitor badge"/>
+<a href="./meow.txt">
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=schilke.visitor-badge" alt="visitor badge"/>
+</a>
 
 <h3 align="center">:hammer_and_wrench: Languages, Skills and Tools</h3>
 
