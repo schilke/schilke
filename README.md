@@ -7,3 +7,5 @@
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,git,sass,less,gulp,figma,ps,svg,wordpress,js,md,php,linux,bash,nodejs,docker,bitbucket,github,gitlab,vscode,sublime,regex,npm,react,jquery&perline=14" alt="Skills and tools"/>
   </a>
 </p>
+
+<!-- Don't wake up the cat! ᓚᘏᗢ -->
