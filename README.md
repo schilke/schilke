@@ -1,4 +1,4 @@
-<img align="right" style="display:none;visibility:hidden !important;" src="https://visitor-badge.laobi.icu/badge?page_id=schilke.visitor-badge" alt="visitor badge"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge&height=1?page_id=schilke.visitor-badge" alt="visitor badge"/>
 
 <h3 align="center">:hammer_and_wrench: Languages, Skills and Tools</h3>
 
