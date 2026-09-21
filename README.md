@@ -1,5 +1,5 @@
 <a href="./meow.txt">
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=schilke.visitor-badge&left_text=%E1%93%9A%E1%98%8F%E1%97%A2"/>
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=schilke.visitor-badge&format=true&left_text=%E1%93%9A%E1%98%8F%E1%97%A2"/>
 </a>
 
 <h3 align="center">:hammer_and_wrench: Languages, Skills and Tools</h3>
