@@ -6,6 +6,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,git,sass,less,gulp,figma,ps,svg,wordpress,js,md,php,linux,bash,nodejs,docker,bitbucket,github,gitlab,vscode,sublime,regex,npm,react,jquery&perline=14" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,git,sass,less,gulp,figma,ps,svg,wordpress,js,md,php,linux,bash,nodejs,docker,bitbucket,github,gitlab,vscode,sublime,regex,npm,react,jquery,webpack,py,nginx,vue,ts,laravel,go,mysql,postgres,rails,perl,gmail,discord,codepen,stackoverflow,devto,twitter,linkedin,instagram,windows,mint,ubuntu&perline=17" alt="Skills and tools"/>
   </a>
 </p>
